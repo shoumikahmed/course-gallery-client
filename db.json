@@ -1,0 +1,52 @@
+{
+    "courses": [
+      {
+        "_id": 1,
+        "price": 150,
+        "name": "HTML",
+        "description": "Learn the basics of HTML, the standard markup language for creating web pages.",
+        "difficulty": "Beginner",
+        "image": "https://blog.internshala.com/wp-content/uploads/2018/09/What-is-HTML-and-how-to-learn-it-The-complete-guide-on-HTML-basics-558x372.jpg"
+      },
+      {
+        "_id": 2,
+        "price": 160,
+        "name": "CSS",
+        "description": "Learn how to style your web pages using CSS, the language for describing the presentation of Web pages.",
+        "difficulty": "Beginner",
+        "image": "https://cdn.pixabay.com/photo/2022/03/21/21/44/file-7084005_1280.png"
+      },
+      {
+        "_id": 3,
+        "price": 170,
+        "name": "JavaScript",
+        "description": "Learn the fundamentals of JavaScript, the programming language of the Web.",
+        "difficulty": "Intermediate",
+        "image": "https://www.syncfusion.com/blogs/wp-content/uploads/2022/01/Pure-and-Impure-Functions-in-JavaScript-A-Complete-Guide-1.jpg"
+      },
+      {
+        "_id": 4,
+        "price": 180,
+        "name": "ReactJS",
+        "description": "Learn how to build user interfaces using ReactJS, a popular JavaScript library.",
+        "difficulty": "Intermediate",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/1*l6s7ev65uD6otx9vV6A2AQ.png"
+      },
+      {
+        "_id": 5,
+        "price": 190,
+        "name": "MongoDB",
+        "description": "Learn how to use MongoDB, a NoSQL database for modern web applications.",
+        "difficulty": "Advanced",
+        "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg"
+      },
+      {
+        "_id": 6,
+        "price": 200,
+        "name": "NodeJS",
+        "description": "Learn how to build scalable network applications using NodeJS, a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+        "difficulty": "Advanced",
+        "image": "https://www.mindrops.com/images/nodejs-image.webp"
+      }
+    ]
+  }
